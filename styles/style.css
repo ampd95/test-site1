@@ -27,10 +27,10 @@ body {
 }
 
 h1 {
-  margin: 0;
+  margin: 0;e
   padding: 20px 0;
-  color: whitesmoke
-  text-shadow: 10px 10px 5px black;
+  color: blue;
+  text-shadow: 5px, 5px, 3px, black;
 }
 
 img {
